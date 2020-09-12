@@ -108,6 +108,7 @@ dist
 /node_modules
 /.pnp
 .pnp.js
+/src/firebase.js
 
 # testing
 /coverage
